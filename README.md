@@ -4,4 +4,6 @@
 
  <p align="center">
   • Famdom Dniuid , i just like DoubleNurse .
-  • Dont be weird , Dont jump into convs .
+  
+  <p align="center">
+    • Dont be weird , Dont jump into convs .
